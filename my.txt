@@ -1,3 +1,6 @@
 my own file
 i added this line in feature branch
+
 this line is for conflict while merging
+
+this line is in feature branch
