@@ -3,3 +3,5 @@ i made some changes in this file and now i need to pull from remote
 additional line was made for GUI
 at least i want to stay this line and push it
 this line was added to main line
+
+line for check out how stash works
